@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "pg": "^8.5.1",
-    "typeorm": "^0.2.31"
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.2.34"
   }
 }
